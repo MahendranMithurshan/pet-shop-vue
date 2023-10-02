@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "name": "Dog NaturCroq Lamb & Rice - 15 Kg",
+    "price": "2,000.00 ",
+    "image": "../src/assets/images/products/dog-food.webp"
+  },
+  {
+    "id": 2,
+    "name": "Happy Cat Culinary Adult Farm Poultry",
+    "price": "1,500.00 ",
+    "image": "../src/assets/images/products/cat-food.webp"
+  },
+  {
+    "id": 3,
+    "name": "Pet Cage",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/dog-cage.jpg"
+  },
+   {
+    "id": 4,
+    "name": "Whiskas Cat Food Core Tuna",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/cat-food-tuna.png"
+  },
+   {
+    "id": 5,
+    "name": "Joules Cat Cotton House.",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/cat-house.png"
+  },
+   {
+    "id": 6,
+    "name": "Ferplast Cat Journey Bag.",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/cat-journey.png"
+  },
+   {
+    "id": 7,
+    "name": "Dog Cotton Bag.",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/dog-cotton.png"
+  },
+  {
+    "id": 8,
+    "name": "Rooibos Pet Food Supple",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/dog-food-1.png"
+  },
+   {
+    "id": 9,
+    "name": "Natural Dog Fresh Food.",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/dog-tuna.png"
+  },
+  {
+    "id": 10,
+    "name": "Drools Nutrition Ocean Fish",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/food-fish.png"
+  },
+  {
+    "id": 11,
+    "name": "Pedigree Natuar Dog Food",
+    "price": "10,500.00 ",
+    "image": "../src/assets/images/products/pedigree.png"
+  }
+]
